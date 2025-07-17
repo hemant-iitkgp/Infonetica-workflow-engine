@@ -46,7 +46,7 @@ The **Swagger UI** provides an interactive interface for every endpoint. Expand 
 
 You can test the API directly via terminal.
 
-1️⃣ **Create a Workflow Definition**
+**1. Create a Workflow Definition**
 
 * Create a file in the project directory named `sample-workflow.json` containing valid workflow JSON.
 
@@ -64,7 +64,7 @@ Copy the `id` from the JSON response for the next step.
 
 ---
 
-2️⃣ **Start a Workflow Instance**
+**2. Start a Workflow Instance**
 
 Replace `{workflow-id}` with the ID you copied earlier:
 
@@ -80,7 +80,7 @@ Copy the `instance id` (a GUID) from the response for use in subsequent API call
 
 ---
 
-## ✨ Features & Enhancements
+## Features & Enhancements
 
 The **core logic was implemented from scratch**. Inspired by real-world use cases, several enhancements were added beyond the base requirements to improve usability and robustness:
 
