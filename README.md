@@ -1,16 +1,16 @@
-# Configurable Workflow Engine API
+# Infonetica- Configurable Workflow Engine
 
-This project implements a **configurable, state-machine-based Workflow Engine API**, created as a **Software Engineer Intern take-home exercise**.
+This project implements a **configurable, state-machine-based Workflow Engine API**, created as a **Software Engineer Intern task**.
 
 The goal was to build a **clean, robust, and maintainable backend service** using **.NET 8 and ASP.NET Core Minimal API**. The result is a **minimal yet powerful engine** capable of defining and running any state-based workflow via a simple set of API endpoints.
 
 ---
 
-## 🚀 Quick-Start and Running Instructions
+## Quick-Start and Running Instructions
 
 ### Prerequisites
 
-* [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+* [.NET 8 SDK]
 
 ---
 
